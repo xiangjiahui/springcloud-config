@@ -1,1 +1,2 @@
-
+config:
+  info: "branch in master springcloud/config.git version-1.0"
